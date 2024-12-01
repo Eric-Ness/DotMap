@@ -1,5 +1,4 @@
-
-#DotMap Geographic Data Visualization Tool
+# DotMap Geographic Data Visualization Tool
 
 This module provides functionality for creating stylized point-based visualizations
 of geographic data using shapefiles. It's particularly useful for creating
